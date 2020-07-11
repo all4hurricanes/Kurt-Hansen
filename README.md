@@ -1,4 +1,4 @@
-##Kurt Hansen, Ph.D candidate at the University of Miami
+## Kurt Hansen, Ph.D candidate at the University of Miami
 
 This is Kurt Hansen’s webpage
 
