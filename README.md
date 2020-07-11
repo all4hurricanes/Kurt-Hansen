@@ -1,6 +1,7 @@
 ## Kurt Hansen, Ph.D candidate at the University of Miami
 
-This is Kurt Hansen’s webpage
+**Research**
+Identifying Subseasonal Variability Relevant to Atlantic Tropical Cyclone Activity (In Review)
 
 You can use the [editor on GitHub](https://github.com/all4hurricanes/KurtHansen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
