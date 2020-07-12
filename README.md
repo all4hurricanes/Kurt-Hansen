@@ -12,4 +12,4 @@ I am part of Canes on Canes an outreach group at RSMAS, we teach hurricane prepa
 
 I've also done outreach as a part of climate group at the Miami Youth Climate Summits.
 
-Test Image ![Switzerland](https://user-images.githubusercontent.com/37673640/87254653-02b4ff00-c452-11ea-94ed-96aa31f425dc.jpg)
+Me in Switzerland ![Switzerland](https://user-images.githubusercontent.com/37673640/87254653-02b4ff00-c452-11ea-94ed-96aa31f425dc.jpg)
