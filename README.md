@@ -5,9 +5,10 @@
 
 My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models.
 
-Publications
+Publications   
 
-[Identifying Subseasonal Variability Relevant to Atlantic Tropical Cyclone Activity](https://journals.ametsoc.org/waf/article/doi/10.1175/WAF-D-19-0260.1/353803/Identifying-Subseasonal-Variability-Relevant-to)
+Identifying Subseasonal Variability Relevant to Atlantic Tropical Cyclone Activity   
+[link](https://journals.ametsoc.org/waf/article/doi/10.1175/WAF-D-19-0260.1/353803/Identifying-Subseasonal-Variability-Relevant-to)
 
 **Outreach**
 
