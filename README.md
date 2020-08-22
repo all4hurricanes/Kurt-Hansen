@@ -1,5 +1,9 @@
 ## Kurt Hansen, Ph.D candidate at the University of Miami Rosenstiel School for Marine and Atmospheric Science (RSMAS)
 
+**2020 Seasonal Forecast**
+[Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/90967045-b248ac80-e4a7-11ea-8b72-8f7dde85324a.png)
+[Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/90967053-c42a4f80-e4a7-11ea-9a0c-1e0434c48093.png)
+
 **Research**
 
 
