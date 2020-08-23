@@ -11,7 +11,7 @@ These seasonal forecasts are made based on the linear regression of sea surface 
 
 **Aug 18 Subseasonal Forecast**
 
-Coming soon, see twitter for a sneak peak.
+Coming soon, see twitter for a sneak peak. 
 
 
 **Research**
