@@ -1,4 +1,6 @@
-## Kurt Hansen, Ph.D candidate at the University of Miami Rosenstiel School for Marine and Atmospheric Science (RSMAS)
+
+## Kurt Hansen
+## Ph.D candidate at the University of Miami Rosenstiel School for Marine and Atmospheric Science (RSMAS)
 
 **2020 Seasonal Forecast**
 
